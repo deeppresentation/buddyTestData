@@ -1,0 +1,7 @@
+Buddy Test Data — Sample Text Document
+
+This is a small, license-free plain-text fixture used by the Buddy
+Telegram bot test suite to exercise document handling.
+
+Line three contains some ASCII: The quick brown fox jumps over the lazy dog.
+Numbers: 0123456789. Symbols: !@#$%^&*()_+-=.
